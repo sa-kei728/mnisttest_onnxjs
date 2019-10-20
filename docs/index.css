@@ -1,10 +1,10 @@
 .main {
+    color: #030303;
     background-color: bisque;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
-    color: #030303;
     font-size: 14px;
     padding: 3px;
     line-height: 1.429;
@@ -24,20 +24,20 @@ p {
 
 .result {
     font-size: 14px;
-    border: 1px solid #CCCCCC;
+    border-top: 1px solid #030303;
+    border-left: 1px solid #030303;
     border-collapse: collapse;
 }
 
 .result caption {
-    border: 1px solid #CCCCCC;
+    border: 1px solid #030303;
 }
 
 .result th {
-    border: 1px solid #CCCCCC;
+    border: 1px solid #030303;
 }
 
 .result td {
-    border: 1px solid #CCCCCC;
     width: 200px;
 }
 
