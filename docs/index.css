@@ -1,0 +1,47 @@
+.main {
+    color: #fbfbfd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 14px;
+    padding: 3px;
+    line-height: 1.429;
+}
+
+.pageTitle {
+    font-size: 24px;
+    color: black;
+    background-color: aqua;
+}
+
+.sequence {
+    font-size: 18px;
+    color: rgb(64, 64, 233);
+    border-bottom: solid 1px #5755bb;
+}
+
+.result {
+    font-size: 14px;
+    border: 1px solid #CCCCCC;
+    border-collapse: collapse;
+}
+
+.result caption {
+    border: 1px solid #CCCCCC;
+}
+
+.result th {
+    border: 1px solid #CCCCCC;
+}
+
+.result td {
+    border: 1px solid #CCCCCC;
+    width: 200px;
+}
+
+.author {
+    font-size: 16px;
+    color: beige;
+    background-color: rgb(68, 0, 255);
+}
